@@ -1,2 +1,2 @@
-# My-CP-Template
-Basic Python codes and a common template for solving Competitive programming questions.
+# My-Graphs
+All the algorithms you need for solving problems on graph data structure at one place!
